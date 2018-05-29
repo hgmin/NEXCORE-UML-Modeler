@@ -10,6 +10,7 @@
 
 * [OMG](http://www.omg.org/) 표준의 객체지향 모델링을 위한 언어
 * The [Unified Modeling Language™](http://www.uml.org/) is OMG's most-used specification, and the way the world models not only application structure, behavior, and architecture, but also business process and data structure.  
+* Eclipse Public License 1.0로 
 
 #### 3. Supported Diagrams 
 
